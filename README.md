@@ -1,5 +1,6 @@
 # hello-world
-hello world Git Repo
+hello world Git Repo 
+Is it Friday yet?
 
 
 Check out this URL if you would like to set up this hello world Repository on your account.
